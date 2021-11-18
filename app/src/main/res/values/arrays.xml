@@ -1,0 +1,16 @@
+<resources>
+    <!-- Reply Preference -->
+
+
+    <string-array name="sampling_rate_entries">
+        <item>250 Hz</item>
+        <item>500 Hz</item>
+    </string-array>
+
+    <string-array name="sampling_rate_values">
+        <item>hz250</item>
+        <item>hz500</item>
+    </string-array>
+
+
+</resources>

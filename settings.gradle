@@ -1,0 +1,2 @@
+include ':app', ':smartingAndroidSensors', ':smartingAndroidServices', ':smartingCommon'
+rootProject.name='CameraEEG'
